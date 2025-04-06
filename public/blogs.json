@@ -1,0 +1,55 @@
+[
+    {
+        "id" : 1,
+        "cover": "https://ibb.co.com/rK3pNhmp",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VwLNdLL/boy1.jpg",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id" : 2,
+        "cover": "https://ibb.co.com/rK3pNhmp",
+        "title": "Component ligecyble in React - Class component vs Functional component",
+        "author_img": "https://i.ibb.co/VwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "july 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "javaScipt",
+            "codding",
+            "div"
+        ]
+    },
+    {
+        "id" : 3,
+        "cover": "https://ibb.co.com/rK3pNhmp",
+        "title": "Component ligecyble in React - Class component vs Functional component",
+        "author_img": "https://i.ibb.co/VwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "july 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id" : 4,
+        "cover": "https://ibb.co.com/rK3pNhmp",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/VwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "july 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
